@@ -1,8 +1,8 @@
 # 2401201207_Jyoti_Javatheory3
 
-## 📘 Student Result Management System – Java | Exception Handling Project
+# 📘 Student Result Management System – Java | Exception Handling Project
 
-# A simple and robust Java console-based application that manages student records, validates subject marks, calculates results, and demonstrates complete Java Exception Handling concepts including:
+A simple and robust Java console-based application that manages student records, validates subject marks, calculates results, and demonstrates complete Java Exception Handling concepts including:
 
 ✔ Custom Exceptions
 ✔ try–catch
